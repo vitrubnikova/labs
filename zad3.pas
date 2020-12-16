@@ -7,7 +7,7 @@ begin
         readln (b);
         s:= a * b;
         p:= 2 * (a + b);
-        writeln ('S = ', a, ' * ', b, ' = ', s, ' �');
-        write ('P = 2 * (', a, ' + ', b, ') = ', p, ' �');
+        writeln ('S = ', a, ' * ', b, ' = ', s, ' см');
+        write ('P = 2 * (', a, ' + ', b, ') = ', p, ' см');
         readln;
 end.
