@@ -1,7 +1,7 @@
 Program example1;
 var a, f:real;
 begin
-        write ('‚¢¥¤¨â¥ a > ');
+        write ('Ğ’Ğ²ĞµĞ´Ğ¸Ñ‚Ğµ a > ');
         readln (a);
         if a < -1 then f:= -a - 1
         else if (a >= -1) and (a < 0) then f:= a + 1
